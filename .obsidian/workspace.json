@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "29da3731d85b56ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a115a9b48a9e7e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9daecc5edd0125af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 - Full notes/R.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "R"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4ab79ae21b6dd926",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0d9801e5319a41f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fca367c7a689adda",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6900f1d4b36ba596",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "aa6e5682899a1be5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "adc306bf39ee4283",
+    "type": "split",
+    "children": [
+      {
+        "id": "62e708801b93a051",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f306e33295a9b77",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "3831e1b313a88286",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "3689ca641944caf1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c1a557bb0fa2cb73",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "fca367c7a689adda",
+  "lastOpenFiles": [
+    "backup_vault.sh",
+    "setup_vault.sh",
+    "2024-11-21.md",
+    "5 - Full notes/R.md",
+    "3 - Tags/Tutorials.md",
+    "3 - Tags/Data Science.md",
+    "3 - Tags/Data Visualization.md",
+    "5 - Full notes/Machine Learning Best Resources.md",
+    "5 - Full notes/Build a research paper summarizer tool.md",
+    "5 - Full notes/AWS Getting Started with Storage.md",
+    "5 - Full notes/Applications installed using snap is not being displayed on launcher.md",
+    "3 - Tags/Linux Commands.md",
+    "3 - Tags/Resources.md",
+    "3 - Tags/llama.md",
+    "3 - Tags/ollama.md",
+    "3 - Tags/Open Source LLM.md",
+    "3 - Tags/LLM.md",
+    "1 - Rough Notes/BigOmega website rewrite.md",
+    "3 - Tags/Amazon S3.md",
+    "3 - Tags/DevOps.md",
+    "3 - Tags/Cloud Computing.md",
+    "2 - Source Material/References for Background Document.md",
+    "3 - Tags/AWS.md",
+    "5 - Full notes/Key findings on LLMSecEval.md",
+    "3 - Tags/Python.md",
+    "3 - Tags/Ubuntu.md",
+    "1 - Rough Notes/Linux firmware update issue due to unavailable space on efi partition.md",
+    "Untitled.canvas",
+    "7 - Short Notes",
+    "images/nvidia-info.png",
+    "images",
+    "6 - Templates",
+    "5 - Full notes",
+    "4 - Indexes",
+    "3 - Tags",
+    "Untitled 1.canvas",
+    "2 - Source Material",
+    "1 - Rough Notes"
+  ]
+}
